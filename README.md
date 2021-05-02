@@ -40,7 +40,7 @@ Sekian dan Terimakasih!
   Nama Kelompok:
   
        -RAEHAN AJIS MARICHAL	2301905096
-       -NURUL FADILLAH 	         2301932481 
+       -NURUL FADILLAH 	       2301932481 
        -JOSHUA SABAS NIRWANA	2301912183
 
 
