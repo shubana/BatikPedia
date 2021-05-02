@@ -1,7 +1,7 @@
 # BatikPedia
 Proyek Augmented reality Batik Pedia
 
-Link Google Drive : 
+Link Google Drive : https://drive.google.com/drive/folders/1zNva0gfQ8qEKL3gWe5kbQlEpR6o8VXxY?usp=sharing
 
 # Proses Pembuatan AR
 
