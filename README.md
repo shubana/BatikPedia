@@ -10,9 +10,9 @@ Link Google Drive : https://drive.google.com/drive/folders/1zNva0gfQ8qEKL3gWe5kb
 Proses pembuatan AR ini dimulai dari membuat model 3D untuk penerapan batiknya. Kami membuat 3D Model ini dari sofware BLENDER, mengapa kami memilih BLENDER, karena BLENDER mewadahi para desain 3D pemula dengan gratis dan Toolsnya hampir mirip dengan Software Pengedit foto seperti Photoshop. Setelah pembuatan 3D model selesai kami menggunakan Software Unity untuk membuat aplikasi BatikPedia, dimulai dari pembuatan UI dari aplikasi sampai sistem yang diimplementasikan.
 
 
-#TAMPILAN DESAIN UI DARI APLIKASI BATIK PEDIA
+# TAMPILAN DESAIN UI DARI APLIKASI BATIK PEDIA
 
-#Halaman Awal dari Aplikasi
+# Halaman Awal dari Aplikasi
 
 ![Menu utama](https://user-images.githubusercontent.com/56524393/116808206-c037ec80-ab61-11eb-8ab8-bb6b6c2cc8d6.jpeg)
 
